@@ -1,6 +1,6 @@
 #!/opt/homebrew/bin/python3
 
-# This script uses the access token to get the quote for a symbol.
+# This script uses the access token to get the quotes for multiple symbols.
 
 import json
 import os

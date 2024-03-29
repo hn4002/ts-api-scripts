@@ -7,7 +7,7 @@ The scripts to test the functional APIs are in `scripts/tsScripts` directory.
 
 # Links
 
-TS API
+TradeStation APIs:
 * https://api.tradestation.com/docs/
 
 
